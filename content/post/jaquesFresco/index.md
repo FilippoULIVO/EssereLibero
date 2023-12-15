@@ -6,6 +6,8 @@ draft: false
 
 # Jaques Fresco & the different Futures we can look at
 
+Just think of something goddammit I can't copy here all the talks he made
+
 
 {{< figureCupper
 img="FilipHodas.jpg" 

@@ -7,3 +7,5 @@ I'm currently Working as A software Developer at Accenture in a Project for Elec
 
 I'm also cultivating my artist side by colaborating with the jeweler [13Truth](https://www.13truth.com/), Designing and 3d printing jewels with him for new collections to come.
 I use an AnyCubic SLA 3d printer and Blender.
+
+ask me if i've seen any of this [movies](/movielist/)
